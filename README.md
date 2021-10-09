@@ -1,2 +1,2 @@
 # Ball-Balancing
-this is aball balancing game
+New Balance Ball game. You will have a lot of fun playing Balance Ball.
